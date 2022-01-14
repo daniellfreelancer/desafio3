@@ -17,7 +17,7 @@ function App() {
     </nav>
     <br /><br /><br /><br />
     <section className="item-card">
-      <UserCard name='NotMeat' weight={500} due='01/23' price={5} />
+      <UserCard name='NotMeat' weight={500} due='01/23' price={10} />
       <UserCard name='NotMeat' weight={1500} due='01/23' price={10} />
       <UserCard name='NotMeat' weight={2000} due='01/23' price={15} />
       <UserCard name='NotMeat' weight={2500} due='01/23' price={20} />
